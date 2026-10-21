@@ -1,0 +1,182 @@
+{
+  "size": [
+    448,
+    320,
+    512
+  ],
+  "bounds": [
+    [
+      -180,
+      -125,
+      90
+    ],
+    [
+      180,
+      125,
+      430
+    ]
+  ],
+  "channels": "R=sqrt(extinction), G=light transmittance",
+  "seed": 71892,
+  "bytes": 100478324,
+  "cloudBanks": 10,
+  "composition": [
+    {
+      "role": "main-right",
+      "center": [
+        82,
+        -24,
+        285
+      ],
+      "radius": [
+        65,
+        57,
+        72
+      ],
+      "strength": 1.2
+    },
+    {
+      "role": "upper-left-wisp",
+      "center": [
+        -110,
+        78,
+        310
+      ],
+      "radius": [
+        58,
+        48,
+        65
+      ],
+      "strength": 0.48
+    },
+    {
+      "role": "first-crossing",
+      "center": [
+        2,
+        3,
+        290
+      ],
+      "radius": [
+        35,
+        32,
+        36
+      ],
+      "strength": 0.85
+    },
+    {
+      "role": "second-crossing",
+      "center": [
+        -28,
+        -46,
+        165
+      ],
+      "radius": [
+        45,
+        43,
+        40
+      ],
+      "strength": 0.8
+    },
+    {
+      "role": "lower-left-wisp",
+      "center": [
+        -93,
+        -48,
+        297
+      ],
+      "radius": [
+        66,
+        44,
+        76
+      ],
+      "strength": 0.25
+    },
+    {
+      "role": "upper-arch",
+      "center": [
+        18,
+        73,
+        315
+      ],
+      "radius": [
+        76,
+        39,
+        66
+      ],
+      "strength": 0.72
+    },
+    {
+      "role": "right-shoulder",
+      "center": [
+        106,
+        62,
+        246
+      ],
+      "radius": [
+        47,
+        51,
+        70
+      ],
+      "strength": 0.75
+    },
+    {
+      "role": "lower-right-tail",
+      "center": [
+        64,
+        -62,
+        190
+      ],
+      "radius": [
+        54,
+        46,
+        53
+      ],
+      "strength": 0.72
+    },
+    {
+      "role": "far-left-wisp",
+      "center": [
+        -64,
+        32,
+        185
+      ],
+      "radius": [
+        50,
+        44,
+        48
+      ],
+      "strength": 0.45
+    },
+    {
+      "role": "exit-wisp",
+      "center": [
+        38,
+        37,
+        136
+      ],
+      "radius": [
+        42,
+        36,
+        29
+      ],
+      "strength": 0.45
+    }
+  ],
+  "negativeSpace": [
+    "opening title pocket",
+    "quiet interval between two crossings"
+  ],
+  "generator": "scripts/bake-nebula-volume.py",
+  "palette": "restrained grey-blue shadows and pale-gold illuminated wisps",
+  "detail": {
+    "size": [
+      128,
+      128,
+      128
+    ],
+    "file": "nebula-detail-rg.bin.gz",
+    "channels": "R=erosion density, G=directional lighting derivative",
+    "generator": "scripts/bake-nebula-detail.py",
+    "interpolation": "quintic domain-warped periodic fBm"
+  }
+}

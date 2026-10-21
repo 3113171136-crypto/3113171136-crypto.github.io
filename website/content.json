@@ -1,0 +1,595 @@
+{
+  "version": 1,
+  "publicRelease": true,
+  "profile": {
+    "name": {
+      "zh": "明鑫",
+      "en": "明鑫"
+    },
+    "headline": {
+      "zh": "嗨，我是明鑫。",
+      "en": "Hi, I’m Mingxin."
+    },
+    "intro": {
+      "zh": "",
+      "en": ""
+    },
+    "skills": {
+      "zh": [
+        "内容策划",
+        "海外社媒",
+        "AI 视频制作",
+        "音乐创作",
+        "品牌合作",
+        "项目执行"
+      ],
+      "en": [
+        "Content strategy",
+        "Social media",
+        "AI video production",
+        "Music creation",
+        "Brand partnerships",
+        "Project delivery"
+      ]
+    },
+    "interests": {
+      "zh": "音乐、影像、AI 与有意思的表达。",
+      "en": "Music, film, AI, and unexpected ways to tell a story."
+    },
+    "aboutTitle": {
+      "zh": "有创意，也能把它做出来。",
+      "en": "Ideas are a start.\nI help make them happen."
+    },
+    "about": {
+      "zh": "从音乐创作与自媒体运营，到 AI 产品的内容推广，再到海外社媒运营，我习惯先理解受众，再找到合适的表达方式。\n\n我关心的不只是一个好点子，\n也包括脚本、制作、协作、交付和复盘。\n\n法务合规与现场活动的经历，\n让我在创意之外，也重视信息准确与项目落地。",
+      "en": "From music and social content to marketing AI products, I start with the audience and find the right way to tell the story.\n\nMy work spans concepts, scripts, production, collaboration, delivery, and review. A background in compliance and live events also keeps me attentive to accuracy and execution."
+    },
+    "education": {
+      "zh": "西南政法大学 · 国际经济与贸易 · 本科\n2021 — 2025",
+      "en": "Southwest University of Political Science and Law\nBA, International Economics & Trade · 2021–2025"
+    },
+    "email": "",
+    "wechat": "mx13983033313",
+    "portrait": "",
+    "resume": {
+      "zh": "./uploads/mingxin-resume.pdf",
+      "en": ""
+    },
+    "contactTitle": {
+      "zh": "下一个好故事，\n一起开始。",
+      "en": "Let's make\nsomething meaningful."
+    }
+  },
+  "worlds": [
+    {
+      "id": "about",
+      "title": {
+        "zh": "关于我",
+        "en": "About me"
+      },
+      "intro": {
+        "zh": "嗨，我是明鑫。",
+        "en": "Hi, I’m Mingxin."
+      },
+      "media": []
+    },
+    {
+      "id": "ideas",
+      "hidden": true,
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "media": []
+    },
+    {
+      "id": "visual",
+      "title": {
+        "zh": "广告案例",
+        "en": "Visual stories"
+      },
+      "intro": {
+        "zh": "让想法有自己的样子。",
+        "en": "Giving ideas a visual voice."
+      },
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/e86281d9-3cd3-4192-a24b-3285f7dc5f64.mp4",
+          "type": "video",
+          "name": "留学.mp4",
+          "caption": {
+            "zh": "留学广告",
+            "en": "留学.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/62a53f16-12b5-4c30-ac0a-241b7d560e6a.mp4",
+          "type": "video",
+          "name": "鸭血粉丝汤-真.mp4",
+          "caption": {
+            "zh": "胥先生社媒推广案例",
+            "en": "鸭血粉丝汤-真.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/aba69522-9a9b-4d07-bce0-8c88f243a9a8.mp4",
+          "type": "video",
+          "name": "样片.mp4",
+          "caption": {
+            "zh": "胥先生门店广告视频",
+            "en": "样片.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/947fda57-6b6a-47f0-95a7-98c68972203b.mp4",
+          "type": "video",
+          "name": "39e70961f1f767921cf66e0755fa8817_raw.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/5e8d8527-99d9-4cbc-b139-acd603233458.jpg",
+          "caption": {
+            "zh": "碧桂园推广视频",
+            "en": "39e70961f1f767921cf66e0755fa8817_raw.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/19713978-698f-4e7e-9f37-59e1408f05da.mp4",
+          "type": "video",
+          "name": "7c0c57d38512436640b267e5529c9c06_raw.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/7ccbab93-fc5c-463f-9eba-2ff859bfdf90.jpg",
+          "caption": {
+            "zh": "宏帆推广视频",
+            "en": "7c0c57d38512436640b267e5529c9c06_raw.mp4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "domestic",
+      "title": {
+        "zh": "国内新媒体",
+        "en": "Social & brands"
+      },
+      "intro": {
+        "zh": "从品牌表达，到内容运营。",
+        "en": "From a brand’s voice to its everyday content."
+      },
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/5d98a834-1a52-4bb1-8402-77a61aedd1e6.mp4",
+          "type": "video",
+          "name": "视频026真-1015.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/30de4787-a4fe-453e-9788-03d93d84198e.jpg",
+          "caption": {
+            "zh": "科普视频001",
+            "en": "视频026真-1015.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/1ff35778-cc03-4b87-9bb1-e6227927f45d.mp4",
+          "type": "video",
+          "name": "视频027-1017.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/2d2b2063-0533-450d-bccd-279e87afbe85.jpg",
+          "caption": {
+            "zh": "科普视频002.mp4",
+            "en": "视频027-1017.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/45e1d194-131c-4f0e-91f4-e6ea80426bfb.mp4",
+          "type": "video",
+          "name": "视频031-1018.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/675782df-938a-4d78-8766-a9a15984aee5.jpg",
+          "caption": {
+            "zh": "科普视频003",
+            "en": "视频031-1018.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/4c3e23d9-2aaf-400a-b671-3a3f6b919483.mp4",
+          "type": "video",
+          "name": "视频005-0924.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/e9d50032-277c-4f31-99b0-6eb1f100a6c0.jpg",
+          "caption": {
+            "zh": "AI广告001",
+            "en": "视频005-0924.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/664f6386-2b64-4eba-8958-fe9b07d6879c.mp4",
+          "type": "video",
+          "name": "视频14-0930.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/1f51ff40-67f0-478b-8f67-9dc1b534e8b1.jpg",
+          "caption": {
+            "zh": "AI广告002",
+            "en": "视频14-0930.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/67b8b715-3fa3-4ab7-a4ac-2006e1a1a3a6.mp4",
+          "type": "video",
+          "name": "视频017-1001.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/af617fc9-c8da-4bf0-9ffb-8f447ed2d4f8.jpg",
+          "caption": {
+            "zh": "AI广告003",
+            "en": "视频017-1001.mp4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "overseas",
+      "title": {
+        "zh": "海外运营",
+        "en": "Global content"
+      },
+      "intro": {
+        "zh": "让产品被看见，也被理解。",
+        "en": "Making products seen. And understood."
+      },
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/8b12a2e7-a216-46ac-91cf-6e6228424c10.mp4",
+          "type": "video",
+          "name": "视频12-0929.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/68b18b9a-bc75-4855-9b81-936ee437719d.jpg",
+          "caption": {
+            "zh": "广告002",
+            "en": "视频12-0929.mp4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "self",
+      "title": {
+        "zh": "自媒体创作",
+        "en": "Independent work"
+      },
+      "intro": {
+        "zh": "把热爱，变成有人共鸣的内容。",
+        "en": "Turning personal passions into shared stories."
+      },
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/28a8a464-1536-485e-81b2-dec8c2f420dd.mp4",
+          "type": "video",
+          "name": "766b002b8bc68598f0e8389311960dac.mp4",
+          "poster": "https://3113171136-crypto.github.io/uploads/767f81fb-72e7-40ce-a48e-d6b6c792578d.jpg",
+          "caption": {
+            "zh": "004，全网浏览500w＋，点赞20w",
+            "en": "766b002b8bc68598f0e8389311960dac.mp4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "hidden": true,
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "media": []
+    },
+    {
+      "id": "career",
+      "title": {
+        "zh": "过往经历",
+        "en": "My journey"
+      },
+      "intro": {
+        "zh": "不同的经历，同一种创造力。",
+        "en": "Different experiences. One creative instinct."
+      },
+      "media": []
+    },
+    {
+      "id": "lab",
+      "hidden": true,
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "media": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "hipohipo",
+      "category": "ai",
+      "title": {
+        "zh": "Hipo Hipo · 让 AI 记忆变得好理解",
+        "en": "Hipo Hipo · Making AI memory relatable"
+      },
+      "year": "2026",
+      "summary": {
+        "zh": "把抽象的 AI 产品能力，变成有情绪、有场景的社交媒体内容。",
+        "en": "Turning abstract AI features into relatable scenarios and social-first stories."
+      },
+      "role": {
+        "zh": "内容策划 / AI 视频制作",
+        "en": "Content strategy / AI video production"
+      },
+      "challenge": {
+        "zh": "围绕产品对信息、记忆与上下文的理解及召回能力，寻找用户能够快速代入的内容切入点。",
+        "en": "Find relatable ways to explain how the product stores, understands, and recalls information and context."
+      },
+      "process": {
+        "zh": "从用户痛点出发完成选题、脚本、AI 画面生成、剪辑与成片交付；探索 POV、Meme 与剧情短片，并根据 Instagram、TikTok 的内容特点调整表达。",
+        "en": "Develop concepts, scripts, AI-generated visuals, edits, and finished videos. Explore POV, memes, and short narratives, adapting the approach for Instagram and TikTok."
+      },
+      "result": {
+        "zh": "形成从产品卖点提炼到 AIGC 短视频制作的实践流程，持续优化人物一致性、镜头表达和素材质量。",
+        "en": "Develop a practical workflow from product messaging to AI video production, refining character consistency, visual storytelling, and asset quality."
+      },
+      "link": "",
+      "cover": "",
+      "media": []
+    },
+    {
+      "id": "snapfill",
+      "category": "ai",
+      "title": {
+        "zh": "ZLYXlegal-中律壹心",
+        "en": "SnapFill · Product features, real-life stories"
+      },
+      "year": "2026",
+      "summary": {
+        "zh": "项目平台： Instagram、YouTube、WhatsApp\n项目简介：面向海外市场，为国内法律服务机构搭建海外社媒获客渠道，通过短视频内容营销、品牌宣传及社媒引流，触达潜在客户，建立从内容曝光到客户线索获取、筛选与业务对接的获客流程。\n",
+        "en": "Connecting document parsing and form automation with everyday problems."
+      },
+      "role": {
+        "zh": "",
+        "en": "Ad scripting / Content production / Collaboration"
+      },
+      "challenge": {
+        "zh": "",
+        "en": "Help users quickly understand how document parsing, autofill, and source checking solve real problems."
+      },
+      "process": {
+        "zh": "海外法律服务社媒获客项目｜海外运营负责人\n\n个人职责：\n* 海外内容运营： 负责海外社媒账号搭建、内容策划、宣传视频、图文制作及发布，提升品牌曝光与潜在客户触达。\n* 客户开发与筛选： 通过社媒渠道获取客户线索，进行初步沟通，了解客户需求、业务类型及合作意向。\n* 线索转化与对接： 筛选高意向客户，将有效线索移交内部专业团队跟进，协助推进后续业务沟通。\n* 获客流程优化： 根据内容表现及客户反馈，调整内容方向、引流方式及客户筛选策略。\n",
+        "en": "Plan videos and posts around target users and use cases. Write product demos and scenario-based scripts, coordinating production, feedback, and delivery."
+      },
+      "result": {
+        "zh": "",
+        "en": "Refine hooks, titles, and product messaging based on account positioning and content feedback."
+      },
+      "link": "",
+      "cover": "",
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/c4ad7185-44bd-4026-bccd-a6a49eabe9fd.mp4",
+          "type": "video",
+          "name": "ec0e03d66310bca8b6171d29938fa813_raw.mp4",
+          "caption": {
+            "zh": "001",
+            "en": "ec0e03d66310bca8b6171d29938fa813_raw.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/6746b525-b7ed-47d2-8327-42770c666d97.jpg",
+          "type": "image",
+          "name": "08bddd96aee6f0ca4a855915e29e7816.jpg",
+          "caption": {
+            "zh": "LOGO",
+            "en": "08bddd96aee6f0ca4a855915e29e7816.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "category": "music",
+      "title": {
+        "zh": "音乐自媒体 · 从创作到千万次播放",
+        "en": "Music content · From ideas to 10M+ views"
+      },
+      "year": "2025 — 2026",
+      "summary": {
+        "zh": "音乐、年轻文化和内容表达，在持续创作中找到与观众的共鸣。\n\n项目时间： 2025.08–2026.08\n\n项目数据：\n• 全平台累计播放量： 2000万+\n• 全平台累计粉丝量： 近2万\n• 内容表现： 多条作品播放量突破10万+\n• 运营平台： 抖音、快手、微信视频号、小红书、B站\n\n项目简介：\n从0到1打造音乐类自媒体账号矩阵，独立负责内容选题、创意策划、原创音乐制作、拍摄出镜、数据分析及商业化运营。全平台累计播放量达2000万+，持续产出高传播内容，并通过内容创作与账号运营实现多次变现，具备完整的音乐内容运营、用户增长及商业化执行经验。",
+        "en": "Finding a connection with audiences through music, youth culture, and consistent creativity."
+      },
+      "role": {
+        "zh": "策划 / 音乐创作 / 拍摄出镜 / 账号运营",
+        "en": "Concepts / Music creation / Filming & on-camera / Operations"
+      },
+      "challenge": {
+        "zh": "围绕音乐与年轻文化打造稳定的内容方向，兼顾观众兴趣、创作表达及品牌合作需求。",
+        "en": "Build a consistent music and youth-culture content direction that balances audience interests, creative expression, and brand partnerships."
+      },
+      "process": {
+        "zh": "两人协作运营。我负责选题、创意、音乐创作、拍摄与出镜、数据复盘及商业沟通；合作伙伴主要负责后期剪辑。",
+        "en": "A two-person collaboration. I led concepts, music creation, filming, on-camera work, performance reviews, and brand communication; my collaborator primarily handled editing."
+      },
+      "result": {
+        "zh": "多平台累计粉丝近 2 万，累计播放超过 1,000 万，最高单条播放 700 万+，并通过品牌合作实现内容变现。数据来自个人简历，平台与统计日期待补充。",
+        "en": "Around 20K followers and over 10M views across platforms, with a top post reaching 7M+ views, plus brand collaborations. Self-reported résumé figures; platform breakdown and reporting dates to be added."
+      },
+      "link": "",
+      "cover": "",
+      "media": [
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/b74e5e71-043b-4600-a3ed-3a5220236a68.mp4",
+          "type": "video",
+          "name": "df12e6ecb972965f6c963f7d49526794.mp4",
+          "caption": {
+            "zh": "002\n全网浏览量 1000w+，点赞60w+",
+            "en": "df12e6ecb972965f6c963f7d49526794.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/65914abe-22c2-486a-bbb9-a8b13da179e5.mp4",
+          "type": "video",
+          "name": "696a7e1c6cf8d8f92e72807003c77824.mp4",
+          "caption": {
+            "zh": "003，全网浏览量200w+，点赞5w",
+            "en": "696a7e1c6cf8d8f92e72807003c77824.mp4"
+          }
+        },
+        {
+          "url": "https://3113171136-crypto.github.io/uploads/a7f41636-f3a8-4260-8bf5-fe05ad866084.mp4",
+          "type": "video",
+          "name": "96adc3990867224ec9e31cbf3971e5c2.mp4",
+          "caption": {
+            "zh": "001，全网浏览量300w＋，点赞10w＋",
+            "en": "96adc3990867224ec9e31cbf3971e5c2.mp4"
+          }
+        }
+      ]
+    }
+  ],
+  "blocks": [],
+  "experience": [
+    {
+      "id": "exp-hipo",
+      "company": "Knowhere / Hipo Hipo",
+      "period": {
+        "zh": "2026.06 — 至今",
+        "en": "Jun 2026 — Present"
+      },
+      "role": {
+        "zh": "海外社媒运营",
+        "en": "Overseas social media"
+      },
+      "description": {
+        "zh": "AI 产品内容策划、AIGC 短视频与海外平台内容适配。",
+        "en": "AI product storytelling, AIGC short-form videos, and platform-specific content."
+      }
+    },
+    {
+      "id": "exp-snap",
+      "company": "Knowhere / SnapFill",
+      "period": {
+        "zh": "2026 .06— 至今",
+        "en": "2026 — Present · Remote, part-time"
+      },
+      "role": {
+        "zh": "新媒体与产品内容运营",
+        "en": "Social & product content"
+      },
+      "description": {
+        "zh": "产品推广脚本、视频及图文素材策划与交付。",
+        "en": "Product marketing scripts, short-form video concepts, and content delivery."
+      }
+    },
+    {
+      "id": "exp-music",
+      "company": "自媒体博主",
+      "period": {
+        "zh": "2025.08 — 2026.08",
+        "en": "2025 — 2026"
+      },
+      "role": {
+        "zh": "音乐自媒体策划与运营",
+        "en": "Music content creator"
+      },
+      "description": {
+        "zh": "音乐内容创作、多平台运营、数据复盘与品牌合作。",
+        "en": "Music creation, cross-platform publishing, performance review, and brand partnerships."
+      }
+    },
+    {
+      "id": "exp-legal",
+      "company": "重庆聚米网络科技有限公司（东郊到家）",
+      "period": {
+        "zh": "2024.07 — 2026.06",
+        "en": "Jul 2024 — Jun 2026"
+      },
+      "role": {
+        "zh": "法务合规经理",
+        "en": "Legal & compliance manager"
+      },
+      "description": {
+        "zh": "宣传内容合规审核、品牌舆情检索、文书撰写与业务培训。",
+        "en": "Marketing compliance reviews, reputation monitoring, written communications, and team training."
+      }
+    }
+  ],
+  "metrics": [
+    {
+      "value": "1,000万+",
+      "valueEn": "10M+",
+      "label": {
+        "zh": "累计内容播放",
+        "en": "Total content views"
+      }
+    },
+    {
+      "value": "近 2 万",
+      "valueEn": "~20K",
+      "label": {
+        "zh": "多平台累计粉丝",
+        "en": "Followers across platforms"
+      }
+    },
+    {
+      "value": "700万+",
+      "valueEn": "7M+",
+      "label": {
+        "zh": "最高单条播放",
+        "en": "Top-performing post views"
+      }
+    }
+  ],
+  "metricsNote": {
+    "zh": "音乐自媒体项目 · 多平台统计，数据来自个人简历",
+    "en": "Music content project · Cross-platform figures, as reported in my résumé"
+  },
+  "uiCopy": {
+    "rotate-hint": {
+      "zh": "",
+      "en": "DRAG TO DISCOVER THE OTHER SIDE"
+    },
+    "mission": {
+      "zh": "",
+      "en": "THE MISSION"
+    },
+    "tab-process": {
+      "zh": "我的贡献",
+      "en": "Contribution"
+    },
+    "tab-result": {
+      "zh": "",
+      "en": "Outcomes"
+    },
+    "role": {
+      "zh": "",
+      "en": "MY ROLE"
+    },
+    "contribution-title": {
+      "zh": "从想法到落地",
+      "en": "From concept to creation"
+    },
+    "results": {
+      "zh": "",
+      "en": "Outcomes & reflections"
+    },
+    "travel-line": {
+      "zh": "了解关于我的更多",
+      "en": "Through the unknown."
+    }
+  },
+  "hiddenBlocks": [
+    "ui:scroll",
+    "ui:motion",
+    "ui:readout",
+    "ui:hero-kicker",
+    "ui:credits",
+    "profile:intro",
+    "contact-email",
+    "ui:contact-kicker",
+    "profile:email",
+    "ui:copy-email"
+  ]
+}

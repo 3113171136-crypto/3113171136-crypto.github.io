@@ -1,0 +1,163 @@
+{
+  "creator": "Solar System Scope",
+  "source": "https://www.solarsystemscope.com/textures/",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "assets": {
+    "mars": "8k_mars.jpg",
+    "earth": "8k_earth_daymap.jpg",
+    "moon": "8k_moon.jpg",
+    "saturn": "8k_saturn.jpg",
+    "clouds": "8k_earth_clouds.jpg",
+    "earth-normal": "2k_earth_normal_map.tif",
+    "earth-specular": "2k_earth_specular_map.tif",
+    "saturn-ring": "2k_saturn_ring_alpha.png"
+  },
+  "changes": "Resized 8K maps to 4K and 2K. Earth and Mars saturation reduced for art direction. Mars and Moon detail maps derived from luminance for artistic microrelief, not scientific elevation.",
+  "galaxy": {
+    "file": "galaxy-hubble.jpg",
+    "title": "The Whirlpool Galaxy (M51) and companion galaxy",
+    "source": "https://esahubble.org/images/heic0506a/",
+    "download": "https://cdn.esahubble.org/archives/images/large/heic0506a.jpg",
+    "credit": "NASA, ESA, S. Beckwith (STScI), and the Hubble Heritage Team (STScI/AURA)",
+    "usage": "https://esahubble.org/copyright/",
+    "changes": "Resized from 11477 × 7965 to 3072 pixels wide; saturation reduced to 60%. Used as a scenic image with independently rendered stars and planets. Artistic scale transition; not a scientifically accurate journey from M51 to our Solar System."
+  },
+  "solarSystemExpansion": {
+    "source": "https://www.solarsystemscope.com/textures/",
+    "license": "CC BY 4.0",
+    "files": [
+      "mercury-2k.jpg",
+      "venus-2k.jpg",
+      "jupiter-2k.jpg",
+      "uranus-2k.jpg",
+      "neptune-2k.jpg",
+      "sun-2k.jpg"
+    ],
+    "note": "Relative orbital order preserved; sizes and distances compressed for portfolio navigation. Nebula is a procedural world-space density field."
+  },
+  "refinement": [
+    {
+      "name": "earth",
+      "source": "8k_earth_daymap.jpg",
+      "width": 8192,
+      "file": "public\\textures\\earth-8k.jpg",
+      "bytes": 4565076
+    },
+    {
+      "name": "jupiter",
+      "source": "8k_jupiter.jpg",
+      "width": 4096,
+      "file": "public\\textures\\jupiter-4k.jpg",
+      "bytes": 3080980
+    },
+    {
+      "name": "mercury",
+      "source": "8k_mercury.jpg",
+      "width": 8192,
+      "file": "public\\textures\\mercury-8k.jpg",
+      "bytes": 15035740
+    },
+    {
+      "name": "mars",
+      "source": "8k_mars.jpg",
+      "width": 8192,
+      "file": "public\\textures\\mars-8k.jpg",
+      "bytes": 8396951
+    },
+    {
+      "name": "sun",
+      "source": "8k_sun.jpg",
+      "width": 4096,
+      "file": "public\\textures\\sun-4k.jpg",
+      "bytes": 3696361
+    },
+    {
+      "name": "neptune",
+      "source": "2k_neptune.jpg",
+      "width": 2048,
+      "file": "public\\textures\\neptune-2k.jpg",
+      "bytes": 241580
+    },
+    {
+      "name": "saturn",
+      "source": "8k_saturn.jpg",
+      "width": 4096,
+      "file": "public\\textures\\saturn-4k.jpg",
+      "bytes": 1098204
+    },
+    {
+      "name": "venus",
+      "source": "4k_venus_atmosphere.jpg",
+      "width": 4096,
+      "file": "public\\textures\\venus-4k.jpg",
+      "bytes": 1546146
+    },
+    {
+      "name": "clouds",
+      "source": "8k_earth_clouds.jpg",
+      "width": 8192,
+      "file": "public\\textures\\clouds-8k.jpg",
+      "bytes": 11619184
+    }
+  ],
+  "nebulaDetail": {
+    "source": "https://esahubble.org/images/heic1007a/",
+    "download": "https://cdn.esahubble.org/archives/images/large/heic1007a.jpg",
+    "credit": "NASA, ESA and M. Livio and the Hubble 20th Anniversary Team (STScI)",
+    "usage": "https://esahubble.org/copyright/",
+    "derived": [
+      "nebula-dust.jpg",
+      "nebula-filaments.jpg"
+    ],
+    "changes": "Grayscale, median filtering (9px dust / 3px filaments), contrast normalization. Filaments modulate each world-space ray sample in the procedural 3D volume. Original photographic resolution is 2104 x 1937; full-resolution rendering is not a claim of higher source resolution. Artistic composition, not scientific reconstruction.",
+    "sourceDimensions": [
+      2104,
+      1937
+    ],
+    "status": "Historical asset, not sampled by the current opening nebula"
+  },
+  "webbNebula": {
+    "title": "Cosmic Cliffs in the Carina Nebula (NIRCam)",
+    "source": "https://esawebb.org/images/weic2205a/",
+    "download": "https://cdn.esawebb.org/archives/images/large/weic2205a.jpg",
+    "credit": "NASA, ESA, CSA, and STScI",
+    "usage": "https://esawebb.org/copyright/",
+    "originalDimensions": [
+      14575,
+      8441
+    ],
+    "files": [
+      "nebula-webb-8k.jpg",
+      "nebula-webb-4k.jpg",
+      "nebula-webb-depth.jpg"
+    ],
+    "changes": "Resized to 8192px desktop and 4096px mobile, restrained saturation. Derived soft dust boundary and luminance relief. Four independent displaced surfaces and 3D dust motes form an artistic depth interpretation, not measured 3D geometry or a scientific reconstruction.",
+    "status": "Historical asset, not sampled by the current opening nebula"
+  },
+  "volumetricNebula": {
+    "status": "Current opening nebula",
+    "source": "Procedural domain-warped 3D density with baked side/back light transmittance",
+    "size": [
+      448,
+      320,
+      512
+    ],
+    "files": [
+      "nebula-volume-rg.bin.gz",
+      "nebula-detail-rg.bin.gz",
+      "nebula-volume.json"
+    ],
+    "generator": "scripts/bake-nebula-volume.py",
+    "seed": 71892,
+    "runtime": "Full output resolution, 112–224 stationary ray steps with a 60% integration budget during camera motion (67–134 steps), continuous 3D density, sub-voxel erosion and baked micro-lighting; depth-aware temporal reprojection with neighborhood clipping, up to 24 stationary samples. Artistic cloud volume, not measured nebula reconstruction or an 8K image.",
+    "cloudBanks": 10,
+    "palette": "Restrained grey-blue shade and pale-gold lit wisps",
+    "composition": "Dominant right mass and lighter upper arch; sparse title area; thin supporting wisps; two separated cloud encounters with a quiet interval",
+    "detailSize": [
+      128,
+      128,
+      128
+    ]
+  }
+}
